@@ -1,6 +1,8 @@
-#README
+#README BEFORE GETTING THE FILES
 
-https://observablehq.com/@maginoku/assignment-1@204
+Please get the desired file you want from the .tar file!
+
+https://observablehq.com/@maginoku/assignment-2/2@228
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +16,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/0c5384c8b913e743.tgz?v=3
+npm install https://api.observablehq.com/d/822a87e6b376b696.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "@maginoku/assignment-1";
+import define from "@maginoku/assignment...";
 ~~~
 
 To log the value of the cell named “foo”:

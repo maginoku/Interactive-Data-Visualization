@@ -1,0 +1,192 @@
+Continent_Name,Continent_Code,Country_Name,Two_Letter_Country_Code,Three_Letter_Country_Code,Country_Number, Latest_Pop ,Cases,Deaths
+North America,NA,United States of America,US,USA,840," 323,127,513 ",27490037,480767
+Asia,AS,"India, Republic of",IN,IND,356," 1,324,171,354 ",10892746,155550
+South America,SA,"Brazil, Federative Republic of",BR,BRA,76," 207,652,865 ",9765455,237489
+Europe,EU,United Kingdom of Great Britain & Northern Ireland,GB,GBR,826," 65,637,239 ",4025574,116507
+Europe,EU,Russian Federation,RU,RUS,643," 144,342,396 ",3997898,77911
+Asia,AS,Russian Federation,RU,RUS,643," 144,342,396 ",3997898,77911
+Europe,EU,"France, French Republic",FR,FRA,250," 66,896,109 ",3466629,80954
+Europe,EU,"Spain, Kingdom of",ES,ESP,724," 46,443,959 ",3056035,64747
+Europe,EU,"Italy, Italian Republic",IT,ITA,380," 60,600,590 ",2697296,93045
+Europe,EU,"Turkey, Republic of",TR,TUR,792," 79,512,426 ",2572190,27284
+Asia,AS,"Turkey, Republic of",TR,TUR,792," 79,512,426 ",2572190,27284
+Europe,EU,"Germany, Federal Republic of",DE,DEU,276," 82,667,685 ",2330422,64771
+South America,SA,"Colombia, Republic of",CO,COL,170," 48,653,419 ",2185169,57196
+South America,SA,"Argentina, Argentine Republic",AR,ARG,32," 43,847,430 ",2015496,50029
+North America,NA,"Mexico, United Mexican States",MX,MEX,484," 127,540,423 ",1978954,172557
+Europe,EU,"Poland, Republic of",PL,POL,616," 37,948,016 ",1577036,40424
+Asia,AS,"Iran, Islamic Republic of",IR,IRN,364," 80,277,428 ",1503753,58809
+Africa,AF,"South Africa, Republic of",ZA,ZAF,710," 55,908,865 ",1487681,47670
+Europe,EU,Ukraine,UA,UKR,804," 45,004,645 ",1307806,25457
+South America,SA,"Peru, Republic of",PE,PER,604," 31,773,839 ",1212309,43045
+Asia,AS,"Indonesia, Republic of",ID,IDN,360," 261,115,456 ",1201859,32656
+Europe,EU,Czech Republic,CZ,CZE,203," 10,561,633 ",1073966,17902
+Europe,EU,"Netherlands, Kingdom of the",NL,NLD,528," 17,018,408 ",1035841,14847
+North America,NA,Canada,CA,CAN,124," 36,286,425 ",824611,21168
+Europe,EU,"Portugal, Portuguese Republic",PT,PRT,620," 10,324,611 ",781223,15034
+South America,SA,"Chile, Republic of",CL,CHL,152," 17,909,754 ",768471,19345
+Europe,EU,Romania,RO,ROU,642," 19,705,301 ",757676,19277
+Europe,EU,"Belgium, Kingdom of",BE,BEL,56," 11,348,159 ",735220,21599
+Asia,AS,"Israel, State of",IL,ISR,376," 8,547,100 ",718746,5304
+Asia,AS,"Iraq, Republic of",IQ,IRQ,368," 37,202,572 ",639438,13157
+Europe,EU,"Sweden, Kingdom of",SE,SWE,752," 9,903,122 ",608411,12428
+Asia,AS,"Pakistan, Islamic Republic of",PK,PAK,586," 193,203,476 ",561625,12276
+Asia,AS,"Philippines, Republic of the",PH,PHL,608," 103,320,222 ",545300,11495
+Europe,EU,"Switzerland, Swiss Confederation",CH,CHE,756," 8,372,098 ",540727,9747
+Asia,AS,"Bangladesh, People's Republic of",BD,BGD,50," 162,951,560 ",539975,8253
+Africa,AF,"Morocco, Kingdom of",MA,MAR,504," 35,276,786 ",477656,8450
+Europe,EU,"Austria, Republic of",AT,AUT,40," 8,747,358 ",430870,8170
+Europe,EU,"Serbia, Republic of",RS,SRB,688," 7,057,412 ",417871,4199
+Asia,AS,Japan,JP,JPN,392," 126,994,511 ",413441,6863
+Europe,EU,"Hungary, Republic of",HU,HUN,348," 9,817,958 ",383735,13543
+Asia,AS,"Saudi Arabia, Kingdom of",SA,SAU,682," 32,275,687 ",372073,6424
+Asia,AS,"Jordan, Hashemite Kingdom of",JO,JOR,400," 9,455,802 ",343563,4433
+Asia,AS,United Arab Emirates,AE,ARE,784," 9,269,612 ",342974,986
+Asia,AS,"Lebanon, Lebanese Republic",LB,LBN,422," 6,006,668 ",334093,3915
+North America,NA,"Panama, Republic of",PA,PAN,591," 4,034,119 ",330985,5595
+Europe,EU,Slovakia (Slovak Republic),SK,SVK,703," 5,428,704 ",273904,5733
+Asia,AS,"Nepal, State of",NP,NPL,524," 28,982,771 ",272557,2054
+Europe,EU,"Belarus, Republic of",BY,BLR,112," 9,507,120 ",265284,1830
+Europe,EU,Georgia,GE,GEO,268," 3,719,300 ",264665,3336
+Asia,AS,Georgia,GE,GEO,268," 3,719,300 ",264665,3336
+South America,SA,"Ecuador, Republic of",EC,ECU,218," 16,385,068 ",263517,15220
+Asia,AS,Malaysia,MY,MYS,458," 31,187,265 ",258306,953
+Europe,EU,"Kazakhstan, Republic of",KZ,KAZ,398," 17,797,032 ",249562,3135
+Asia,AS,"Kazakhstan, Republic of",KZ,KAZ,398," 17,797,032 ",249562,3135
+Europe,EU,"Croatia, Republic of",HR,HRV,191," 4,170,600 ",237080,5282
+South America,SA,"Bolivia, Republic of",BO,BOL,68," 10,887,882 ",235098,11107
+Europe,EU,"Azerbaijan, Republic of",AZ,AZE,31," 9,762,274 ",231840,3173
+Asia,AS,"Azerbaijan, Republic of",AZ,AZE,31," 9,762,274 ",231840,3173
+Europe,EU,"Bulgaria, Republic of",BG,BGR,100," 7,127,822 ",229010,9594
+North America,NA,Dominican Republic,DO,DOM,214," 10,648,791 ",227764,2917
+Africa,AF,"Tunisia, Tunisian Republic",TN,TUN,788," 11,403,248 ",221455,7461
+Europe,EU,Ireland,IE,IRL,372," 4,773,095 ",207720,3865
+Europe,EU,"Denmark, Kingdom of",DK,DNK,208," 5,731,118 ",204480,2281
+North America,NA,"Costa Rica, Republic of",CR,CRI,188," 4,857,274 ",199187,2714
+Europe,EU,"Lithuania, Republic of",LT,LTU,440," 2,872,298 ",187991,2988
+Europe,EU,"Slovenia, Republic of",SI,SVN,705," 2,064,845 ",178133,3692
+Asia,AS,"Kuwait, State of",KW,KWT,414," 4,052,584 ",176052,992
+Africa,AF,"Egypt, Arab Republic of",EG,EGY,818," 95,688,681 ",172602,9899
+Europe,EU,"Greece, Hellenic Republic",GR,GRC,300," 10,746,740 ",170244,6077
+Europe,EU,"Armenia, Republic of",AM,ARM,51," 2,924,816 ",168830,3138
+Asia,AS,"Armenia, Republic of",AM,ARM,51," 2,924,816 ",168830,3138
+Europe,EU,"Moldova, Republic of",MD,MDA,498," 3,552,000 ",168826,3626
+North America,NA,"Guatemala, Republic of",GT,GTM,320," 16,582,469 ",166283,6057
+Asia,AS,"Palestinian Territory, Occupied",PS,PSE,275," 4,551,566 ",166200,1918
+North America,NA,"Honduras, Republic of",HN,HND,340," 9,112,867 ",159024,3848
+Asia,AS,"Qatar, State of",QA,QAT,634," 2,569,804 ",156351,254
+Africa,AF,"Ethiopia, Federal Democratic Republic of",ET,ETH,231," 102,403,196 ",145548,2177
+Africa,AF,"Nigeria, Federal Republic of",NG,NGA,566," 185,989,640 ",144521,1734
+South America,SA,"Paraguay, Republic of",PY,PRY,600," 6,725,308 ",142598,2904
+Asia,AS,"Oman, Sultanate of",OM,OMN,512," 4,424,762 ",136622,1539
+South America,SA,"Venezuela, Bolivarian Republic of",VE,VEN,862," 31,568,179 ",132259,1267
+Africa,AF,Libyan Arab Jamahiriya,LY,LBY,434," 6,293,253 ",126881,2014
+Europe,EU,Bosnia and Herzegovina,BA,BIH,70," 3,516,816 ",125402,4881
+Asia,AS,"Bahrain, Kingdom of",BH,BHR,48," 1,425,171 ",111312,395
+Africa,AF,"Algeria, People's Democratic Republic of",DZ,DZA,12," 40,606,052 ",110303,2932
+Africa,AF,"Kenya, Republic of",KE,KEN,404," 48,461,567 ",102613,1794
+Asia,AS,"China, People's Republic of",CN,CHN,156," 1,378,665,000 ",100559,4828
+Europe,EU,"Macedonia, The Former Yugoslav Republic of",MK,MKD,807," 2,081,206 ",96518,2971
+Europe,EU,"Albania, Republic of",AL,ALB,8," 2,876,101 ",90835,1531
+Asia,AS,Kyrgyz Republic,KG,KGZ,417," 6,082,700 ",85398,1439
+Asia,AS,"Korea, Republic of",KR,KOR,410," 51,245,707 ",83199,1514
+Asia,AS,"Uzbekistan, Republic of",UZ,UZB,860," 31,848,200 ",79340,622
+Europe,EU,"Latvia, Republic of",LV,LVA,428," 1,960,424 ",75509,1431
+Africa,AF,"Ghana, Republic of",GH,GHA,288," 28,206,728 ",74347,505
+Asia,AS,"Sri Lanka, Democratic Socialist Republic of",LK,LKA,144," 21,203,000 ",74056,384
+Europe,EU,"Montenegro, Republic of",ME,MNE,499," 622,781 ",68004,880
+Africa,AF,"Zambia, Republic of",ZM,ZMB,894," 16,591,390 ",67681,931
+Europe,EU,"Norway, Kingdom of",NO,NOR,578," 5,232,929 ",66236,592
+Asia,AS,"Singapore, Republic of",SG,SGP,702," 5,607,283 ",59777,29
+North America,NA,"El Salvador, Republic of",SV,SLV,222," 6,344,722 ",57428,1727
+Asia,AS,"Afghanistan, Islamic Republic of",AF,AFG,4," 34,656,032 ",55445,2424
+Europe,EU,"Luxembourg, Grand Duchy of",LU,LUX,442," 582,972 ",52539,606
+Europe,EU,"Estonia, Republic of",EE,EST,233," 1,316,481 ",50993,486
+Europe,EU,"Finland, Republic of",FI,FIN,246," 5,495,096 ",49572,710
+Africa,AF,"Mozambique, Republic of",MZ,MOZ,508," 28,829,476 ",48588,514
+South America,SA,"Uruguay, Eastern Republic of",UY,URY,858," 3,444,006 ",47828,527
+Africa,AF,"Uganda, Republic of",UG,UGA,800," 41,487,965 ",39979,328
+North America,NA,"Cuba, Republic of",CU,CUB,192," 11,475,982 ",36595,257
+Africa,AF,"Namibia, Republic of",NA,NAM,516," 2,479,713 ",35554,384
+Africa,AF,"Zimbabwe, Republic of",ZW,ZWE,716," 16,150,362 ",35045,1393
+Europe,EU,"Cyprus, Republic of",CY,CYP,196," 1,170,125 ",32288,219
+Asia,AS,"Cyprus, Republic of",CY,CYP,196," 1,170,125 ",32288,219
+Africa,AF,"Cameroon, Republic of",CM,CMR,120," 23,439,189 ",32098,479
+Africa,AF,"Cote d'Ivoire, Republic of",CI,CIV,384," 23,695,919 ",30717,173
+Africa,AF,"Senegal, Republic of",SN,SEN,686," 15,411,614 ",30376,735
+Africa,AF,"Sudan, Republic of",SD,SDN,736," 39,578,828 ",29933,1849
+Oceania,OC,"Australia, Commonwealth of",AU,AUS,36," 24,127,159 ",28892,909
+Africa,AF,"Malawi, Republic of",MW,MWI,454," 18,091,575 ",28630,926
+Africa,AF,"Botswana, Republic of",BW,BWA,72," 2,250,260 ",24926,202
+Asia,AS,"Thailand, Kingdom of",TH,THA,764," 68,863,514 ",24279,80
+Africa,AF,"Congo, Republic of the",CG,COG,178," 5,125,821 ",24152,691
+Africa,AF,"Angola, Republic of",AO,AGO,24," 28,813,463 ",20294,490
+Europe,EU,"Malta, Republic of",MT,MLT,470," 436,947 ",19497,288
+Africa,AF,"Madagascar, Republic of",MG,MDG,450," 24,894,551 ",19360,285
+North America,NA,Jamaica,JM,JAM,388," 2,881,355 ",18527,368
+Asia,AS,"Maldives, Republic of",MV,MDV,462," 417,492 ",17507,57
+Africa,AF,"Rwanda, Republic of",RW,RWA,646," 11,917,508 ",17200,236
+Africa,AF,"Mauritania, Islamic Republic of",MR,MRT,478," 4,301,018 ",16954,427
+Africa,AF,"Guinea, Republic of",GN,GIN,324," 12,395,924 ",14860,84
+Asia,AS,Syrian Arab Republic,SY,SYR,760," 18,430,453 ",14765,971
+Africa,AF,"Cape Verde, Republic of",CV,CPV,132," 539,560 ",14647,139
+Asia,AS,"Tajikistan, Republic of",TJ,TJK,762," 8,734,951 ",13308,90
+Africa,AF,"Gabon, Gabonese Republic",GA,GAB,266," 1,979,786 ",12577,73
+North America,NA,Belize,BZ,BLZ,84," 366,954 ",12134,313
+North America,NA,"Haiti, Republic of",HT,HTI,332," 10,847,334 ",12016,246
+Africa,AF,Burkina Faso,BF,BFA,854," 18,646,433 ",11538,137
+Europe,EU,"Andorra, Principality of",AD,AND,20," 77,281 ",10427,106
+Africa,AF,"Lesotho, Kingdom of",LS,LSO,426," 2,203,821 ",9852,225
+South America,SA,"Suriname, Republic of",SR,SUR,740," 558,368 ",8778,166
+Africa,AF,"Congo, Democratic Republic of the",CD,COD,180," 78,736,153 ",8419,123
+North America,NA,"Bahamas, Commonwealth of the",BS,BHS,44," 391,232 ",8311,178
+Africa,AF,"Mali, Republic of",ML,MLI,466," 17,994,837 ",8222,340
+South America,SA,"Guyana, Co-operative Republic of",GY,GUY,328," 773,303 ",8181,186
+North America,NA,"Trinidad and Tobago, Republic of",TT,TTO,780," 1,364,962 ",7637,137
+North America,NA,"Nicaragua, Republic of",NI,NIC,558," 6,149,928 ",6347,171
+Europe,EU,"Iceland, Republic of",IS,ISL,352," 334,252 ",6033,29
+Africa,AF,"Djibouti, Republic of",DJ,DJI,262," 942,333 ",5967,63
+Africa,AF,"Togo, Togolese Republic",TG,TGO,768," 7,606,374 ",5757,80
+Africa,AF,"Equatorial Guinea, Republic of",GQ,GNQ,226," 1,221,490 ",5663,87
+Africa,AF,South Sudan,SS,SSD,728," 12,230,730 ",5134,72
+Africa,AF,"Somalia, Somali Republic",SO,SOM,706," 14,317,996 ",5075,146
+Africa,AF,Central African Republic,CF,CAF,140," 4,594,621 ",4996,63
+Africa,AF,"Niger, Republic of",NE,NER,562," 20,672,987 ",4678,169
+Africa,AF,"Benin, Republic of",BJ,BEN,204," 10,872,298 ",4560,56
+Africa,AF,"Gambia, Republic of the",GM,GMB,270," 2,038,501 ",4302,135
+Africa,AF,"Sierra Leone, Republic of",SL,SLE,694," 7,396,190 ",3817,79
+Africa,AF,"Chad, Republic of",TD,TCD,148," 14,452,543 ",3597,128
+Africa,AF,"Comoros, Union of the",KM,COM,174," 795,601 ",3290,125
+Europe,EU,"San Marino, Republic of",SM,SMR,674," 33,203 ",3278,72
+Africa,AF,"Guinea-Bissau, Republic of",GW,GNB,624," 1,815,698 ",2869,46
+Europe,EU,"Liechtenstein, Principality of",LI,LIE,438," 37,666 ",2537,52
+Africa,AF,"Eritrea, State of",ER,ERI,232, -   ,2429,7
+Oceania,OC,New Zealand,NZ,NZL,554," 4,692,700 ",2328,25
+Asia,AS,Mongolia,MN,MNG,496," 3,027,398 ",2293,2
+Asia,AS,"Vietnam, Socialist Republic of",VN,VNM,704," 92,701,100 ",2142,35
+Asia,AS,Yemen,YE,YEM,887," 27,584,213 ",2136,616
+Africa,AF,"Liberia, Republic of",LR,LBR,430," 4,613,823 ",1956,84
+North America,NA,Barbados,BB,BRB,52," 284,996 ",1947,21
+Africa,AF,"Seychelles, Republic of",SC,SYC,690," 94,677 ",1802,7
+Africa,AF,"Burundi, Republic of",BI,BDI,108," 10,524,117 ",1797,3
+Europe,EU,"Monaco, Principality of",MC,MCO,492," 38,499 ",1752,21
+Africa,AF,"Sao Tome and Principe, Democratic Republic of",ST,STP,678," 199,910 ",1478,19
+North America,NA,Saint Vincent and the Grenadines,VC,VCT,670," 109,643 ",1370,6
+Oceania,OC,"Papua New Guinea, Independent State of",PG,PNG,598," 8,084,991 ",914,9
+Asia,AS,"Bhutan, Kingdom of",BT,BTN,64," 797,765 ",863,1
+Africa,AF,"Mauritius, Republic of",MU,MUS,480," 1,263,473 ",595,10
+Africa,AF,"Tanzania, United Republic of",TZ,TZA,834," 55,572,201 ",509,21
+Asia,AS,"Cambodia, Kingdom of",KH,KHM,116," 15,762,370 ",479,0
+North America,NA,Antigua and Barbuda,AG,ATG,28," 100,963 ",419,9
+Asia,AS,Brunei Darussalam,BN,BRN,96," 423,196 ",184,3
+North America,NA,Grenada,GD,GRD,308," 107,317 ",148,1
+North America,NA,"Dominica, Commonwealth of",DM,DMA,212," 73,543 ",121,0
+Asia,AS,"Timor-Leste, Democratic Republic of",TL,TLS,626," 1,268,671 ",100,0
+Oceania,OC,"Fiji, Republic of the Fiji Islands",FJ,FJI,242," 898,760 ",56,2
+Asia,AS,Lao People's Democratic Republic,LA,LAO,418," 6,758,353 ",45,0
+North America,NA,"Saint Kitts and Nevis, Federation of",KN,KNA,659," 54,821 ",40,0
+Oceania,OC,Solomon Islands,SB,SLB,90," 599,419 ",18,0
+Oceania,OC,"Marshall Islands, Republic of the",MH,MHL,584," 53,066 ",4,0
+Oceania,OC,American Samoa,AS,WSM,16," 195,125 ",2,0
+Oceania,OC,"Micronesia, Federated States of",FM,FSM,583," 104,937 ",1,0
+Oceania,OC,"Vanuatu, Republic of",VU,VUT,548," 270,402 ",1,0
